@@ -19,6 +19,7 @@ executing==2.2.0
 filelock==3.17.0
 fonttools==4.56.0
 fsspec==2025.2.0
+gensim==4.3.3
 huggingface-hub==0.29.1
 idna==3.10
 ipykernel==6.29.5
@@ -42,7 +43,7 @@ murmurhash==1.0.12
 nest-asyncio==1.6.0
 networkx==3.4.2
 nltk==3.9.1
-numpy==2.2.3
+numpy==1.26.4
 packaging==24.2
 pandas==2.2.3
 parso==0.8.4
@@ -66,7 +67,7 @@ requests==2.32.3
 rich==13.9.4
 safetensors==0.5.3
 scikit-learn==1.6.1
-scipy==1.15.2
+scipy==1.13.1
 setuptools==75.8.2
 shellingham==1.5.4
 six==1.17.0
